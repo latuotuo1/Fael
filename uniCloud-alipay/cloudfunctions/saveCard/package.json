@@ -1,0 +1,7 @@
+{
+  "name": "saveCard",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

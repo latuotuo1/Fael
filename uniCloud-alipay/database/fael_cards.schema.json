@@ -1,0 +1,9 @@
+// 文档教程: https://uniapp.dcloud.net.cn/uniCloud/schema
+{
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	}
+}

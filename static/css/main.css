@@ -1,0 +1,11 @@
+@font-face{
+	font-family: 'FaelFont';
+	src:url('../fonts/朝華打字機.ttf')format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+page{
+	font-family: 'FaelFont',serif;
+	height: 100%;
+	overflow: hidden;
+}
